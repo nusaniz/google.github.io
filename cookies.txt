@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+accounts.google.com	TRUE	/	FALSE	1999999999	__Host-GAPS	1:oKtjRfqRk0zw7WGvzQb2HF3S-G_9yw:yg42-Tj-n3yM2X_z
+accounts.google.com	TRUE	/	FALSE	1999999999	Priority	HIGH
+
